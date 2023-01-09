@@ -1,5 +1,5 @@
 # Xyz
- ___This Tools is Free Not For Sale___</br>
+ ___This Tool is Free Not For Sale___</br>
 
 * **Visitor Github @YounisJohn**
 
