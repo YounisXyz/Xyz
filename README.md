@@ -35,7 +35,7 @@
 
 ### [`MY SELF`](https://instagram.com/YounisJohn)
 ```
-"Name": "Annos",
+"Name": "Muhammad Younis",
 "Status": "Legends Stay Single",
 "Address": "Straight From The Hell",
 "Age": "17 Years Old",
