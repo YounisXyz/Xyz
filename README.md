@@ -1,6 +1,5 @@
 # Xyz
  ___This Tool is Free Not For Sale___</br>
-
 * **Visitor Github @YounisJohn**
 
 ![YounisJohn](https://komarev.com/ghpvc/?username=YounisJohn&color=blue)
@@ -20,28 +19,32 @@
 ## <b>installation</b>
 
 - `pkg update`
-
 - `pkg upgrade`
-
 - `pkg install git`
-
 - `pkg install python`
-
 - `pip install requests`
-
 - `pip install mechanize`
-
 - `rm -rf Xyz`
-
 - `git clone https://github.com/YounisJohn/Xyz`
 
+#### RUN SCRIPT
+
 - `cd Xyz`
-
 - `mkdir data`
-
 - `python Xyz`
+
+### [`MY SELF`](https://instagram.com/YounisJohn)
+```
+"Name": "Annos",
+"Status": "Legends Stay Single",
+"Address": "Straight From The Hell",
+"Age": "17 Years Old",
+   
+```
 
 ## 📸 Screenshot 📸
 
 ![Screenshot_2022-08-29-17-44-00-945_com termux](https://github.com/YounisJohn/Xyz/blob/main/Screenshot_20230109-095325.png)
+
+
 
