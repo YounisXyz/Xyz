@@ -33,7 +33,7 @@
 - `mkdir data`
 - `python Xyz`
 
-### [`MY SELF`](https://instagram.com/YounisJohn)
+### [`MY SELF`](https://github.com/YounisJohn)
 ```
 "Name": "Muhammad Younis",
 "Status": "Legends Stay Single",
