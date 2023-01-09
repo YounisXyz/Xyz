@@ -44,7 +44,7 @@
 
 ## 📸 Screenshot 📸
 
-![Screenshot_2022-08-29-17-44-00-945_com termux](https://github.com/YounisJohn/Xyz/blob/main/Screenshot_20230109-095325.png)
+![Screenshot_2022-08-29-17-44-00-945_com termux](https://github.com/YounisJohn/Xyz/blob/main/Screenshot_20230109-103749.png)
 
 
 
