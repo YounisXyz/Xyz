@@ -31,7 +31,7 @@
 
 - `cd Xyz`
 - `mkdir data`
-- `python Xyz`
+- `python Xyz.py`
 
 ### [`MY SELF`](https://github.com/YounisJohn)
 ```
