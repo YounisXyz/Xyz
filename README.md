@@ -1,6 +1,6 @@
 # Xyz
- ___This Tool is Free Not For Sale___</br>
-* **Visitor Github @YounisJohn**
+ ___This Tool is For Private Users___</br>
+* **Visitor Github @YounisXyz**
 
 ![YounisJohn](https://komarev.com/ghpvc/?username=YounisXyz&color=blue)
 
