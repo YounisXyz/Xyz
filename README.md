@@ -30,7 +30,7 @@
 #### RUN SCRIPT
 
 - `cd Xyz`
-- `mkdir data`
+
 - `python Xyz.py`
 
 ### [`MY SELF`](https://github.com/YounisJohn)
