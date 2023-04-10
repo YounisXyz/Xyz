@@ -33,12 +33,20 @@
 
 - `python Xyz.py`
 
+## 📸 Screenshot 📸
+
+ ___XYZ___</br>
+
+![Screenshot_2022-08-29-17-44-00-945_com termux](https://github.com/YounisXyz/Xyz/blob/main/Screenshot_20230410-162557.jpg)
+
+
 ### [`MY SELF`](https://github.com/YounisJohn)
 ```
 "Name": "Muhammad Younis",
 "Status": "Legends Stay Single",
 "Address": "Straight From The Hell",
-"Age": "17 Years Old",
+"Age": "18 Years Old",
+"Date of Birth": "April - 05 - 2005",
    
 ```
 
