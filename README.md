@@ -41,6 +41,7 @@
 
 ___File Result___</br>
 ![Screenshot_2022-08-29-17-44-00-945_com termux](https://github.com/YounisXyz/Xyz/blob/main/Screenshot_20230412-081841.jpg)
+![Screenshot_2022-08-29-17-44-00-945_com termux](https://github.com/YounisXyz/Xyz/blob/main/Screenshot_20230413-132550.jpg)
 
 ___Auto share fb post___</br>
 
