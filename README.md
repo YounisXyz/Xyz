@@ -37,10 +37,14 @@
 
  ___XYZ___</br>
 
-![Screenshot_2022-08-29-17-44-00-945_com termux](https://github.com/YounisXyz/Xyz/blob/main/Screenshot_20230412-101512.jpg)
+![Screenshot_2022-08-29-17-44-00-945_com termux](https://github.com/YounisXyz/Xyz/blob/main/Screenshot_20230413-062526.jpg)
 
 ___File Result___</br>
 ![Screenshot_2022-08-29-17-44-00-945_com termux](https://github.com/YounisXyz/Xyz/blob/main/Screenshot_20230412-081841.jpg)
+
+___Auto share fb post___</br>
+
+![Screenshot_2022-08-29-17-44-00-945_com termux](https://github.com/YounisXyz/Xyz/blob/main/Screenshot_20230413-063414.jpg)
 
 ### [`MY SELF`](https://github.com/YounisJohn)
 ```
