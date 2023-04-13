@@ -2,9 +2,9 @@ import os
 
 os.system('clear')
 
-x = 'Script has been permanent deleted and john owner can not more update it'
+x = 'Script has been on updating please wait sometime'
 
-y = 'Thanks for using Younis John tolls'
+y = 'Thanks for using YounisXyz tolls'
 
 print(x)
 
