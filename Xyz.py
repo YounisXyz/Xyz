@@ -1,15 +1,6 @@
-import os,platform
- 
-os.system('git pull')
- 
- 
- 
-trt=platform.architecture()[0]
- 
-if trt=="32bit":
- 
-    print('Sorry 32 Bit Not Supported...')
- 
-elif trt=="64bit":
- 
-    __import__("Xyz")
+import os
+os.system('clear')
+x = 'Script has been permanent deleted and john owner can not more update it'
+y = 'Thanks for using Younis john tolls'
+print(x)
+print(y)
