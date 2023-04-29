@@ -1,8 +1,15 @@
-import os
-os.system("clear");print("\n\t join our group!")
-os.system('xdg-open https://chat.whatsapp.com/LrEDGuPEEOk3Dt6CLDTPfx')
-os.system('clear')
-x = 'Script has been on updating please wait sometime'
-y = 'Thanks for using Younis john tolls [ X Y Z ]'
-print(x)
-print(y)
+import os,platform
+ 
+os.system('git pull')
+ 
+ 
+ 
+trt=platform.architecture()[0]
+ 
+if trt=="32bit":
+ 
+    print('Sorry 32 Bit Not Supported...')
+ 
+elif trt=="64bit":
+ 
+    __import__("Xyz")
