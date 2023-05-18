@@ -1,9 +1,9 @@
 import os,platform
 os.system('git pull')
  
-trt=platform.architecture()[0]
-if trt=="32bit":
+Xyz=platform.architecture()[0]
+if Xyz=="32bit":
     print('Sorry 32 Bit Not Supported...')
-elif trt=="64bit":
+elif Xyz=="64bit":
     __import__("Xyz")
  
