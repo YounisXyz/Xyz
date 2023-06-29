@@ -3,7 +3,7 @@ os.system('git pull')
  
 Xyz=platform.architecture()[0]
 if Xyz=="32bit":
-    print('Sorry 32 Bit Not Supported...')
+    __import__("Xyz32")
 elif Xyz=="64bit":
     __import__("Xyz")
  
