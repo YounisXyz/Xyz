@@ -1,9 +1,6 @@
-import os,platform
-os.system('git pull')
- 
-Xyz=platform.architecture()[0]
-if Xyz=="32bit":
-    __import__("Xyz32")
-elif Xyz=="64bit":
-    __import__("Xyz")
- 
+import os
+os.system('clear')
+x = 'Script has been on updating, please wait some days'
+y = 'Thanks for using Younis John tools'
+print(x)
+print(y)
