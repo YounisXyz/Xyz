@@ -1,8 +1,22 @@
+from YounisXyz import Xyz
+ 
 import os
-os.system('clear')
-x = 'Script has been on updating, please wait some days'
-y = 'Thanks for using Younis John tools'
-print(x)
-print(y)
+try:
+     import bs4
+except (ModuleNotFoundError,ImportError):
+     os.system('pip install bs4')
+try:
+     import requests
+except (ModuleNotFoundError,ImportError):
+     os.system('pip install requests')
+ 
+def main():
+    os.system('git pull')
+    os.system('clear')
+    Xyz.false()
+ 
+if __name__ == '__main__':
+   main()
+ 
 
  
