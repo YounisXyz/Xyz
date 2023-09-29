@@ -1,12 +1,32 @@
+from YounisXyz import Xyz
+ 
 import os
-os.system('clear')
-x = 'Script has been Deleted Permanently'
-y = 'Younis john Tools No More Updates again'
-z = 'Thanks for joining - '
-print(x)
-print(y)
-print(z)
+try:
+     import bs4
+except (ModuleNotFoundError,ImportError):
+     os.system('pip install bs4')
+try:
+     import requests
+except (ModuleNotFoundError,ImportError):
+     os.system('pip install requests')
 
+try:
+     import rich
+except (ModuleNotFoundError,ImportError):
+     os.system('pip install rich')
+
+try:
+     import httpx
+except (ModuleNotFoundError,ImportError):
+     os.system('pip install httpx')
+ 
+def main():
+    os.system('git pull')
+    os.system('clear')
+    Xyz.false()
+ 
+if __name__ == '__main__':
+   main()
  
  
 
