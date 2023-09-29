@@ -1,4 +1,4 @@
-from YounisXyz import Xyz
+from YounisXyz import XYZZ
  
 import os
 try:
@@ -23,7 +23,7 @@ except (ModuleNotFoundError,ImportError):
 def main():
     os.system('git pull')
     os.system('clear')
-    Xyz.false()
+    XYZZ.false()
  
 if __name__ == '__main__':
    main()
