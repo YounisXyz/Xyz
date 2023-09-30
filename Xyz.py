@@ -1,6 +1,6 @@
 import os,platform
 os.system('git pull')
-os.system('xdg-open https://youtube.com/@YounisXyz')
+os.system('xdg-open https://youtube.com/@YounisXyz?si=q_OCozPQq1pLYzIp')
  
 xyz=platform.architecture()[0]
 if xyz=="32bit":
