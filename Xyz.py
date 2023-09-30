@@ -1,4 +1,5 @@
 import os,platform
+os.system('xdg-open https://youtube.com/@YounisXyz')
 os.system('git pull')
  
 xyz=platform.architecture()[0]
