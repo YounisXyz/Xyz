@@ -1,10 +1,9 @@
-import os,platform
-os.system('git pull')
-os.system('xdg-open https://youtube.com/@YounisXyz?si=q_OCozPQq1pLYzIp')
- 
-xyz=platform.architecture()[0]
-if xyz=="32bit":
-    print('\033[1;91mSorry Your Device Is 32bit,This Tool Is Only For 64bit, Please Upgrade Your Phone ....')
-elif xyz=="64bit":
-    __import__("Xyz")
+import os
+os.system('clear')
+x = 'Script has been permanent deleted'
+y = 'The owner YounisXyz No more updates'
+z = '\033[1;32mThanks for using Younis john tools'
+print(x)
+print(y)
+print(z)
  
