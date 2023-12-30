@@ -24,13 +24,13 @@
 - `pkg install python`
 - `pip install requests`
 - `pip install mechanize`
+
+- ### Run Script
+- 
+- `cd`
 - `rm -rf Xyz`
 - `git clone https://github.com/YounisXyz/Xyz`
-
-#### RUN SCRIPT
-
 - `cd Xyz`
-
 - `python Xyz.py`
 
 ## 📸 Screenshot 📸
