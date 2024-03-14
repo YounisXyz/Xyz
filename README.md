@@ -5,13 +5,13 @@
 - [CONTACT](#contact)
 
  ___Free Toll by YounisXyz___</br>
-* **Visitor Github @YounisXyz**
 
-![YounisJohn](https://komarev.com/ghpvc/?username=YounisXyz&color=blue)
-
-<a href="https://github.com/YounisXyz/followers">
-
-<img title="Followers" src="https://img.shields.io/github/followers/YounisXyz?label=Followers&color=red&style=flat-square"></a>
+# GITHUB 
+![YounisJohn](https://komarev.com/ghpvc/?username=YounisJohn&color=blue)
+<a href="https://github.com/YounisXyz"><img src="https://img.shields.io/github/followers/YounisXyz?label=followers&style=social"/></a>
+[![GitHub watch](https://img.shields.io/github/watchers/YounisXyz/Xyz.svg?style=social&label=Watch)](https://GitHub.com/YounisXyz/Xyz/watchers/)
+[![GitHub forks](https://img.shields.io/github/forks/YounisXyz/Xyz.svg?style=social&label=Fork)](https://GitHub.com/YounisXyz/Xyz/network/)
+[![GitHub stars](https://img.shields.io/github/stars/YounisXyz/Xyz.svg?style=social&label=Star)](https://GitHub.com/YounisXyz/Xyz/stargazers/)
 
 # CONTACT
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/YounisXyz) [![](https://img.shields.io/badge/Twitter-blue?logo=Twitter&logoColor=White&labelColor=white)](https://mobile.twitter.com/YounisXyz)
