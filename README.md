@@ -1,5 +1,10 @@
-# Xyz
- ___Premium Toll by YounisXyz___</br>
+- [GITHUB](#github) 
+- [BASICMODULES](#basicmodules) 
+- [RUN](#run) 
+- [IMAGES](#images)
+- [CONTACT](#contact)
+
+ ___Free Toll by YounisXyz___</br>
 * **Visitor Github @YounisXyz**
 
 ![YounisJohn](https://komarev.com/ghpvc/?username=YounisXyz&color=blue)
@@ -8,24 +13,31 @@
 
 <img title="Followers" src="https://img.shields.io/github/followers/YounisXyz?label=Followers&color=red&style=flat-square"></a>
 
-### 👤 My Accounts 👤
+# CONTACT
+[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/YounisXyz) [![](https://img.shields.io/badge/Twitter-blue?logo=Twitter&logoColor=White&labelColor=white)](https://mobile.twitter.com/YounisXyz)
+[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/xyzhackers)[![](https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=red&labelColor=white)](https://www.instagram.com/younisxyz) [![Whatsapp](https://img.shields.io/badge/Whatsapp-Younis.Xyz-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923404708884)
+[![](https://img.shields.io/badge/YouTube-black?logo=YouTube&logoColor=black&labelColor=white)](https://www.youtube.com/@YounisXyz)
+[![](https://img.shields.io/badge/YouTube-red?logo=YouTube&logoColor=red&labelColor=white)](https://youtube.com/@MRTRICKERXYZ)
 
-[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/noob.hackers)
-
-[![](https://img.shields.io/badge/Messenger-red?logo=Messenger&logoColor=red&labelColor=black)](https://m.me/noob.hackers) <br>
-
-[![Whatsapp](https://img.shields.io/badge/Whatsapp-Younis.john-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923404708884)
-
-## <b>installation</b>
+- # BASICMODULES
 
 - `pkg update`
 - `pkg upgrade`
 - `pkg install git`
 - `pkg install python`
+- `pkg install python-pip`
+- `pip install rich`
+- `pip install stdiomask`
+- `pip install httpx`
+- `pip install idna`
+- `pip install bs4`
 - `pip install requests`
 - `pip install mechanize`
+- `pip uninstall requests chardet urllib3`
+- `idna certifi -y;pip install chardet urllib3`
+- `idna certifi requests`
 
-- ### Run Script
+- # RUN
 - 
 - `cd`
 - `rm -rf Xyz`
@@ -33,7 +45,7 @@
 - `cd Xyz`
 - `python Xyz.py`
 
-## 📸 Screenshot 📸
+# IMAGES 📸
 
  ___XYZ___</br>
 
