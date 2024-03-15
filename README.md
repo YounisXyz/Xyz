@@ -4,7 +4,7 @@
 - [IMAGES](#images)
 - [CONTACT](#contact)
 
- ___Free Toll by YounisXyz___</br>
+ ___Premium Toll by YounisXyz___</br>
 
 # GITHUB 
 ![YounisJohn](https://komarev.com/ghpvc/?username=YounisJohn&color=blue)
